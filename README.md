@@ -1,2 +1,2 @@
 # MosVLN
-Observation Driven Memory Synergistic Planning for Continuous Vision-Language Navigation
+MosVLN:Memory-Observation Synergistic Planning forContinuous Vision-Language Navigation
