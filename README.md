@@ -1,2 +1,2 @@
-# MosVLN
-MosVLN:Memory-Observation Synergistic Planning forContinuous Vision-Language Navigation
+# MossVLN
+MossVLN:Memory-Observation SynergiStic Planning for Continuous Vision-Language Navigation
