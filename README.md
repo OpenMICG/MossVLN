@@ -20,7 +20,7 @@ Extract such that it has the form `scene_datasets/mp3d/{scene}/{scene}.glb`. The
 - Waypoint Predictor: `data/wp_pred/check_cwp_bestdist*`
   - [ ]  For R2R-CE, `data/wp_pred/check_cwp_bestdist_hfov90` [[link\]](https://drive.google.com/file/d/1goXbgLP2om9LsEQZ5XvB0UpGK4A5SGJC/view?usp=sharing).
 
-- Processed data, pre-trained weight, fine-tuned weight [[link\]](https://drive.google.com/drive/u/1/folders/1yJhYqprrgHLngdd98jqtE14P_kIwq3Ce).
+- Processed data, pre-trained weight, fine-tuned weight [[link\]](https://drive.google.com/drive/u/1/folders/10sn5kMX7OH5A3phU7dDHp4ONDVODhiVK).
 
   ```Python
   unzip MossVLN.zip    # file/fold structure has been organized
