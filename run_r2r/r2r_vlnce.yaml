@@ -47,15 +47,15 @@ TASK:
     SUCCESS_DISTANCE: 3.0
   NDTW:
     SUCCESS_DISTANCE: 3.0
-    GT_PATH: /data3/wuyifei/ETPNav/data/datasets/R2R_VLNCE_v1-2_preprocessed/{split}/{split}_gt.json.gz
+    GT_PATH: data/datasets/R2R_VLNCE_v1-2_preprocessed/{split}/{split}_gt.json.gz
   SDTW:
     SUCCESS_DISTANCE: 3.0
-    GT_PATH: /data3/wuyifei/ETPNav/data/datasets/R2R_VLNCE_v1-2_preprocessed/{split}/{split}_gt.json.gz
+    GT_PATH: data/datasets/R2R_VLNCE_v1-2_preprocessed/{split}/{split}_gt.json.gz
   ORACLE_SUCCESS:
     SUCCESS_DISTANCE: 3.0
     
 DATASET:
   TYPE: VLN-CE-v1
   SPLIT: train
-  DATA_PATH: /data3/wuyifei/ETPNav/data/datasets/R2R_VLNCE_v1-2_preprocessed_BERTidx/{split}/{split}_bertidx.json.gz
-  SCENES_DIR: /data3/wuyifei/ETPNav/data/scene_datasets/
+  DATA_PATH: data/datasets/R2R_VLNCE_v1-2_preprocessed_BERTidx/{split}/{split}_bertidx.json.gz
+  SCENES_DIR: data/scene_datasets/

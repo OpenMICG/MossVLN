@@ -29,7 +29,7 @@ flag2=" --exp_name release_r2r
       GPU_NUMBERS 1
       NUM_ENVIRONMENTS 8
       TASK_CONFIG.SIMULATOR.HABITAT_SIM_V0.ALLOW_SLIDING True
-      EVAL.CKPT_PATH_DIR data/logs/checkpoints/release_r2r/ckpt.iter26800.pth
+      EVAL.CKPT_PATH_DIR data/logs/checkpoints/release_r2r/ckpt.iter29000.pth
       IL.back_algo control
       "
 
@@ -41,8 +41,8 @@ flag3="--exp_name release_r2r
       GPU_NUMBERS 1
       NUM_ENVIRONMENTS 8
       TASK_CONFIG.SIMULATOR.HABITAT_SIM_V0.ALLOW_SLIDING True
-      INFERENCE.CKPT_PATH data/logs/checkpoints/release_r2r/ckpt.iter26800.pth
-      INFERENCE.PREDICTIONS_FILE /data3/wuyifei/ETPNav/data/logs/preds.json
+      INFERENCE.CKPT_PATH data/logs/checkpoints/release_r2r/ckpt.iter29000.pth
+      INFERENCE.PREDICTIONS_FILE data/logs/preds.json
       IL.back_algo control
       "
 
