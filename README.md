@@ -87,3 +87,8 @@ CUDA_VISIBLE_DEVICES=0 bash run_r2r/main.bash eval  2333  # evaluation
 CUDA_VISIBLE_DEVICES=0 bash run_r2r/main.bash infer 2333  # inference
 ```
 
+# Acknowledge
+
+Our implementations are partially inspired by [ETPNav](https://github.com/MarSaKi/ETPNav) ,  [CWP](https://github.com/YicongHong/Discrete-Continuous-VLN) and [DUET](https://github.com/cshizhe/VLN-DUET).
+
+Thanks for their great works!
